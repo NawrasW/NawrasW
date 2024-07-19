@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NawrasW
 - 🌱 I’m a Full stack developer
 - 💞️ I am passionate about Web Dev & I enjoy learning new things.
-//- 📫 How to reach me ...
-
+<!-- 📫 How to reach me ... -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="gap: 10px;">

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NawrasW
+- 👋 Hi, I’m Nawras Wraikat
 - 🌱 I’m a Full stack developer
 - 💞️ I am passionate about Web Dev & I enjoy learning new things.
 <!-- 📫 How to reach me ... -->

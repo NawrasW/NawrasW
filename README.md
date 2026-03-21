@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Nawras Wraikat
-- 🌱 I’m a Full stack developer
-- 💞️ I am passionate about Web Dev & I enjoy learning new things.
+🚀 Full-Stack Developer | Problem Solver | Continuous Learner 
+
+👋 Hi, I'm Nawras Wraikat!
+I am a passionate Full Stack Developer dedicated to crafting seamless web experiences from database architecture to responsive user interfaces. I thrive on the challenge of turning complex requirements into clean, efficient, and scalable code. 
+
+👯 Open for Collaboration: I'm looking to contribute to Open Source projects that focus on web performance or developer tooling.
 <!-- 📫 How to reach me ... -->
 
 <h3 align="left">Languages and Tools:</h3>
